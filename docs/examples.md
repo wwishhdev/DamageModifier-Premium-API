@@ -27,7 +27,7 @@ public void onEnd(DamageComputeEndEvent e) {
 
 ## QA in‑server
 
-1. `/damagemodifier debug next` → realiza un golpe.
-2. Verás “ProvidersOut” con el resultado post‑providers.
-3. `/damagemodifier simulate melee 5.0` → el resultado incluye tu provider.
+1. `/damagemodifier debug next` → perform one hit.
+2. You will see “ProvidersOut” with the post‑providers result.
+3. `/damagemodifier simulate melee 5.0` → the output includes your provider.
 
