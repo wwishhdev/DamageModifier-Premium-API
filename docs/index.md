@@ -5,8 +5,10 @@ title: DamageModifier‑Premium API
 # DamageModifier‑Premium API
 
 Config‑driven combat balancer API for Modern (1.9+) and Legacy (1.8). This API lets your plugin add damage contributions via a simple provider pipeline and listen to compute events.
+
+Get it on JitPack: [wwishhdev/DamageModifier-Premium-API v1.5.1](https://jitpack.io/#wwishhdev/DamageModifier-Premium-API/v1.5.1)
  
-**Get it on JitPack:** https://jitpack.io/#wwishhdev/DamageModifier-Premium-API/v1.5.1
+[![JitPack](https://jitpack.io/v/wwishhdev/DamageModifier-Premium-API.svg)](https://jitpack.io/#wwishhdev/DamageModifier-Premium-API)
 
 ## Supported Editions
 
@@ -58,4 +60,3 @@ if (dm instanceof com.wish.damagemodifier.DamageModifier) {
 - [Setup](setup.md)
 - [Examples](examples.md)
 - [FAQ](faq.md)
-
